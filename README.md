@@ -12,3 +12,8 @@ Open source complete telegram bot gives allows you to add stocks to a watchlist 
 
 ## Preview
 <img src="IMG_2195.PNG" width="200"/>
+
+## Support me
+Like my work and want to support me?
+
+<a href="https://www.buymeacoffee.com/anandelango" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
